@@ -3,18 +3,18 @@
 	[
 		{
 			"id" : 1,
-			"nama" : "jono",
+			"nama" : "Andrew",
 			"alamat" : "malang"
 		},
 		{
 			"id" : 2,
-			"nama" : "jojon",
-			"alamat" : "pasuruan"
+			"nama" : "Edward",
+			"alamat" : "Jakarta"
 		},
 		{
 			"id" : 3,
-			"nama" : "jujun",
-			"alamat" : "pasuruan"
+			"nama" : "Jake",
+			"alamat" : "Jakarta"
 		}
 	],
 "organisasi": [
