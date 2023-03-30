@@ -25,10 +25,10 @@
 	],
 	"Album": [
 		{"Id" : 1, "Judul":  "Sial" },
-		{"Id" : 2, "Judul":  "My Love" }
+		
 	],
 	"Album2": [
-		{"Id" : 1, "Judul":  "Sial" }
+		{"Id" : 2, "Judul":  "My Love" }
 	]
 
 }
